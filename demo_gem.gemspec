@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
   s.version     = DemoGem::VERSION
   s.authors     = ["Vikram Kumar Mishra"]
   s.email       = ["vikram.mishra@mindfiresolutions.com"]
-  s.homepage    = "www.mindfiresolutions.com"
+  s.homepage    = "http://mindfiresolutions.com"
   s.summary     = "Just to test how gem is created"
   s.description = "Just to test how gem is created"
 
