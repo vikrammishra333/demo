@@ -1,5 +1,5 @@
 module DemoGem
-  class User < ActiveRecord::Base
+  class Product < ActiveRecord::Base
     has_many :pictures, :as => :imageable
   end
 end
